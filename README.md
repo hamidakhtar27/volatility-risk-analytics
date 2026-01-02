@@ -76,9 +76,9 @@
 
 - ###   Models:
 
--- ###     Random Forest
+-   ###     Random Forest
 
--- ###     XGBoost
+-   ###     XGBoost
 
 - ###   Performance evaluated using out-of-sample RMSE
 
