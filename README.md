@@ -1,7 +1,11 @@
 # 📈 Volatility & Risk Analytics Platform
 
+---
+
 # 🚀 Live Dashboard:
 # 👉 https://volatility-risk-analytics.onrender.com
+
+---
 
 # 🧠 Overview
 
@@ -21,6 +25,8 @@
 
 # The platform is designed to reflect how risk, quant research, and model validation are performed in hedge funds, banks, and asset management firms.
 
+---
+
 # 🎯 Key Objectives
 
 # Model and forecast market volatility using statistical + ML methods
@@ -33,7 +39,11 @@
 
 # Demonstrate end-to-end quant engineering, from research to deployment
 
+---
+
 # 🧮 Methodology & Components
+
+
 # 1️⃣ Data & Returns  
 
 # Daily adjusted close prices (SPY ETF)
@@ -41,6 +51,7 @@
 # Log-return computation
 
 # Realized volatility estimation
+
 
 # 2️⃣ Volatility Models (Econometrics)
 
@@ -56,6 +67,7 @@
 
 # All models are aligned and compared against realized volatility.
 
+
 # 3️⃣ Machine Learning Volatility Forecasting
 
 # Feature engineering from returns & realized volatility
@@ -69,6 +81,7 @@
 # XGBoost
 
 # Performance evaluated using out-of-sample RMSE
+
 
 # 4️⃣ Tail Risk Measurement (VaR & CVaR)
 
@@ -88,6 +101,7 @@
 
 # ML volatility (calibrated)
 
+
 # 5️⃣ VaR Backtesting (Regulatory)
 
 # VaR breach analysis
@@ -97,6 +111,7 @@
 # Christoffersen Independence test
 
 # Results benchmarked against Basel expectations
+
 
 # 6️⃣ Basel Traffic Light Framework
 
@@ -111,6 +126,7 @@
 # 🔴 Red zone
 
 # Fully visualized and regulator-aligned
+
 
 # 7️⃣ Stress Testing & Drawdowns
 
@@ -138,9 +154,10 @@
 
 # Static assets for fast loading and reliability
 
-# 👉 Live URL: https://volatility-risk-analytics.onrender.com
+---
 
 # 🗂 Project Structure
+
 volatility-risk-analytics/
 │
 ├── src/                     # Core analytics modules
@@ -163,28 +180,7 @@ volatility-risk-analytics/
 ├── requirements.txt
 └── README.md
 
-⚙️ How to Run Locally
-1️⃣ Clone the repository
-git clone https://github.com/<your-username>/volatility-risk-analytics.git
-cd volatility-risk-analytics
-
-2️⃣ Create environment & install dependencies
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-
-3️⃣ Run analytics pipeline
-python main.py
-
-
-(All figures will be saved to reports/figures/)
-
-4️⃣ Run dashboard locally
-cd dashboard
-python app.py
-
-
-Open: http://127.0.0.1:8050
+---
 
 🧠 Skills Demonstrated
 
@@ -200,9 +196,13 @@ Machine Learning (walk-forward validation)
 
 Python engineering
 
+---
+
 # Data visualization
 
 # Production deployment (Render)
+
+---
 
 # 🏦 Real-World Relevance
 
@@ -215,6 +215,8 @@ Python engineering
 # Asset managers (portfolio risk oversight)
 
 # Regulatory model validation groups
+
+---
 
 # 👤 Author
 
