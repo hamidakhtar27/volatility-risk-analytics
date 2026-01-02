@@ -87,9 +87,9 @@
 
 - ###   Models:
 
-###         Random Forest
+    - ###   Random Forest
 
-###         XGBoost
+    - ###   XGBoost
 
 - ###   Performance evaluated using out-of-sample RMSE
 
@@ -101,17 +101,17 @@
 
 - ###   Distributions:
 
-###         Gaussian
+    - ###   Gaussian
 
-###         Student-t
+    - ###   Student-t
 
 - ###   Models evaluated:
 
-###         GARCH (Gaussian)
+    - ###   GARCH (Gaussian)
 
-###         GARCH-t
+    - ###   GARCH-t
 
-###         ML volatility (calibrated)
+    - ###   ML volatility (calibrated)
 
 
 
@@ -133,11 +133,11 @@
 
 - ###   Classification into:
 
-###         🟢 Green zone
+    - ###   🟢 Green zone
 
-###         🟡 Yellow zone
+    - ###   🟡 Yellow zone
 
-###         🔴 Red zone
+    - ###  🔴 Red zone
 
 - ###   Fully visualized and regulator-aligned
 
