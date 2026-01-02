@@ -11,17 +11,17 @@
 
 ### This project is an industry-grade Volatility & Risk Analytics system that combines:
 
-### Classical GARCH-family econometric models
+- ###   Classical GARCH-family econometric models
 
-### Machine Learning–based volatility forecasting
+- ###   Machine Learning–based volatility forecasting
 
-### Tail-risk measurement (VaR / CVaR)
+- ###   Tail-risk measurement (VaR / CVaR)
 
-### Regulatory backtesting (Basel framework)
+- ###   Regulatory backtesting (Basel framework)
 
-### Stress testing & drawdown analysis
+- ###   Stress testing & drawdown analysis
 
-### A production-ready Dash dashboard deployed live
+- ###   A production-ready Dash dashboard deployed live
 
 ### The platform is designed to reflect how risk, quant research, and model validation are performed in hedge funds, banks, and asset management firms.
 
@@ -157,32 +157,6 @@
 ### Static assets for fast loading and reliability
 
 ### Live URL : https://volatility-risk-analytics.onrender.com
-
----
-
-## 🗂 Project Structure
-
-volatility-risk-analytics/
-│
-├── src/                     # Core analytics modules
-│   ├── garch_models.py
-│   ├── ml_models.py
-│   ├── risk_metrics.py
-│   ├── backtests.py
-│   └── stress_tests.py
-│
-├── reports/
-│   └── figures/             # Auto-generated plots
-│
-├── dashboard/
-│   ├── app.py               # Dash application
-│   └── assets/
-│       ├── styles.css
-│       └── figures/         # Dashboard images
-│
-├── main.py                  # End-to-end research pipeline
-├── requirements.txt
-└── README.md
 
 ---
 
