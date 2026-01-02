@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+dash_venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets (future-proof)
+.env
+

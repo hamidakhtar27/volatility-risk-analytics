@@ -1,0 +1,5 @@
+VaR BACKTEST RESULTS (99%)
+GARCH Gaussian   : 0.0207
+GARCH Student-t  : 0.0087
+ML Student-t     : 0.0078
+Expected         : 0.0100
