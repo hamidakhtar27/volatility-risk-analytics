@@ -198,6 +198,6 @@
 ## 👤 Author
 
 ### Mohd Hamid Akhtar Khan
-###Final-year B.Tech (Computer Science & Engineering)  
+### Final-year B.Tech (Computer Science & Engineering)  
 ### Quantitative Finance & Risk Analytics
 
