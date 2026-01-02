@@ -1,11 +1,15 @@
 # 📈 Volatility & Risk Analytics Platform
 
+
 ---
+
 
 ## 🚀 Live Dashboard:
 ### 👉 https://volatility-risk-analytics.onrender.com
 
+
 ---
+
 
 ## 🧠 Overview
 
@@ -25,7 +29,9 @@
 
 ### The platform is designed to reflect how risk, quant research, and model validation are performed in hedge funds, banks, and asset management firms.
 
+
 ---
+
 
 ## 🎯 Key Objectives
 
@@ -39,9 +45,12 @@
 
 - ###   Demonstrate end-to-end quant engineering, from research to deployment
 
+
 ---
 
+
 ## 🧮 Methodology & Components
+
 
 
 ### 1️⃣ Data & Returns  
@@ -51,6 +60,7 @@
 - ###   Log-return computation
 
 - ###   Realized volatility estimation
+
 
 
 ### 2️⃣ Volatility Models (Econometrics)
@@ -68,6 +78,7 @@
 ### All models are aligned and compared against realized volatility.
 
 
+
 ### 3️⃣ Machine Learning Volatility Forecasting
 
 - ###   Feature engineering from returns & realized volatility
@@ -76,11 +87,12 @@
 
 - ###   Models:
 
--   ###     Random Forest
+###         Random Forest
 
--   ###     XGBoost
+###         XGBoost
 
 - ###   Performance evaluated using out-of-sample RMSE
+
 
 
 ### 4️⃣ Tail Risk Measurement (VaR & CVaR)
@@ -89,17 +101,18 @@
 
 - ###   Distributions:
 
--- ###     Gaussian
+###         Gaussian
 
--- ###     Student-t
+###         Student-t
 
 - ###   Models evaluated:
 
--- ###     GARCH (Gaussian)
+###         GARCH (Gaussian)
 
--- ###     GARCH-t
+###         GARCH-t
 
--- ###     ML volatility (calibrated)
+###         ML volatility (calibrated)
+
 
 
 ### 5️⃣ VaR Backtesting (Regulatory)
@@ -113,19 +126,21 @@
 - ###   Results benchmarked against Basel expectations
 
 
+
 ### 6️⃣ Basel Traffic Light Framework
 
 - ###   Rolling 250-day VaR breach counts
 
 - ###   Classification into:
 
--- ###     🟢 Green zone
+###         🟢 Green zone
 
--- ###     🟡 Yellow zone
+###         🟡 Yellow zone
 
--- ###     🔴 Red zone
+###         🔴 Red zone
 
 - ###   Fully visualized and regulator-aligned
+
 
 
 ### 7️⃣ Stress Testing & Drawdowns
@@ -136,7 +151,9 @@
 
 - ###   Visual comparison across extreme periods
 
+
 ---
+
 
 ## 📊 Dashboard Features (Live)
 
@@ -158,7 +175,9 @@
 
 ### Live URL : https://volatility-risk-analytics.onrender.com
 
+
 ---
+
 
 ## 🏦 Real-World Relevance
 
@@ -172,7 +191,9 @@
 
 - ###   Regulatory model validation groups
 
+
 ---
+
 
 ## 👤 Author
 
